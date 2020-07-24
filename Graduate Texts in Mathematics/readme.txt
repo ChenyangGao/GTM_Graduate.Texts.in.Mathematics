@@ -5,6 +5,7 @@
 // 以下是备注信息，便于我对低质量的版本进行标记，等以后出了新版本或者高质量版本后，进行替换
 // 文件夹里面没有的，都是待补充的，但我主要更新新书
 
+文件命名依据：https://en.wikipedia.org/wiki/Graduate_Texts_in_Mathematics
 
 没有封面：
 247 Braid Groups (2008, ISBN 978-0-387-33841-5).pdf
